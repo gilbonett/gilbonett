@@ -1,6 +1,6 @@
-### Hola 👋
+# Hola 👋
 
-# Soy Estudiante / Programación Full Stack en la Toti🤓
+## Soy Estudiante / Programación Full Stack en la Toti🤓
 
 - 😊 Soy Venezolano
 - 🏢 Actualmente trabajo en Estacionamiento Teatro Park
@@ -9,10 +9,10 @@
 - 🕺 Me gusta Bailar Ritmos Latinos
 - 🏃‍♂️ Amo salir a Correr
 - 🤩 Tengo un Hermano Gemelo
-- 
-### Olá 👋
 
- # Sou Estudante / Programação Full Stack na Toti🤓
+# Olá 👋
+
+ ## Sou Estudante / Programação Full Stack na Toti🤓
 
 - 😊 Sou Venezuelano
 - 🏢 Atualmente trabalho no Estacionamento Teatro Park
@@ -21,4 +21,3 @@
 - 🕺 Gosto de dançar ritmos latinos
 - 🏃‍♂️ Amo Correr
 - 🤩 Tenho um irmão gêmeo 
--->
