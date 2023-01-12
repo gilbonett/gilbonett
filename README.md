@@ -13,7 +13,7 @@
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
   <img align="center" alt="GitHub" height="40px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/>
-  <img align="center" alt="MySQL" height="40px" src="https://cdn-icons-png.flaticon.com/512/528/528260.png" />
+  <img align="center" alt="SQL Server" height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" />
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
