@@ -1,5 +1,7 @@
 # Olá 👋
 
+ ## Sou Desenvolvedor Full Stack, Formado na Toti
+
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://github.com/gilbonett/github-readme-stats#gh-dark-mode-only">
@@ -21,9 +23,6 @@
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
- ## Sou Desenvolvedor Full Stack, Formado na Toti
-
-- 😊 Sou Venezuelano
 - 🏢 Atualmente fazendo transição de carreira
 - 🤖 Imersão no mundo da tecnologia 
 - 🐶🐱💖 Pai de Nala, Stark e Max
